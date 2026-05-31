@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📈 Retail Sales Forecasting Dashboard
 
 A professional machine learning and business analytics project built using Python, Streamlit, Plotly, and XGBoost to analyze and forecast retail sales using real-world Walmart sales data.
@@ -121,3 +122,6 @@ Retail_Sales_Project
 # 🙌 Acknowledgements
 
 Dataset: Walmart Retail Sales Dataset
+=======
+# Retail-Sales-Forecasting
+>>>>>>> 0788a2825f8230172b979c07bd824df3f72781dd
